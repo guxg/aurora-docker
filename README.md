@@ -1,5 +1,8 @@
 # Aurora in Docker
 
+## Install
+
+http://aurora.apache.org/documentation/latest/operations/installation/
 
 ## Tags and Dockerfiles
 
