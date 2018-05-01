@@ -1,5 +1,12 @@
 # Aurora in Docker
 
+## Version
+
+Aurora 0.20.0 works with mesos 1.4.0:
+
+http://aurora.apache.org/blog/aurora-0-20-0-released/
+
+
 ## Install
 
 http://aurora.apache.org/documentation/latest/operations/installation/
